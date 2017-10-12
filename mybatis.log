@@ -1,0 +1,2 @@
+[ERROR][2017-10-12 21:50:12,249][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2017-10-12 21:50:12,442][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
